@@ -4,7 +4,7 @@
 
 
 
-<img src="./dummay-img.png" alt="img" style="zoom: 25%;" width="1200" align="left"/>
+<img src="./dummay-img.png" alt="img" width="200" align="left"/>
 
 
 
